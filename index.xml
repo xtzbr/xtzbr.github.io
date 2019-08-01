@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>心体之本然</title>
+    <link>https://xtzbr.github.io/</link>
+    <description>Recent content on 心体之本然</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2019 14:47:35 +0800</lastBuildDate>
+    
+	<atom:link href="https://xtzbr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://xtzbr.github.io/post/test/</link>
+      <pubDate>Thu, 01 Aug 2019 14:47:35 +0800</pubDate>
+      
+      <guid>https://xtzbr.github.io/post/test/</guid>
+      <description>hello 0801 风平浪静中,见人生之真谛; 味淡声稀处,识心体之本然.</description>
+    </item>
+    
+  </channel>
+</rss>
